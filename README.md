@@ -25,7 +25,7 @@ make
 - EXIT: Exits the program.
 +Example usage:
 
-```sh
+```bash
 -> CREATE=John_Doe:1000
 Account created for: John_Doe
 Your account number is: 100
